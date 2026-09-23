@@ -9,7 +9,7 @@
 
 🔗 **GitHub:** https://github.com/SagniksNewProjects/US-Grocery-Gas-Price-Analytics-2015-2026-
 
-🔗 **Datasets' Source** https://www.kaggle.com/datasets/harshitsama/us-grocery-and-gas-prices-2015-2026
+🔗 **Datasets' Source from Kaggle** https://www.kaggle.com/datasets/harshitsama/us-grocery-and-gas-prices-2015-2026
 
 ---
 
