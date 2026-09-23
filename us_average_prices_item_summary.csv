@@ -1,0 +1,75 @@
+item,unit,category,first_date,last_date,first_price,last_price,n_months,min_price,max_price,avg_first_12mo,avg_last_12mo,pct_change_12mo_avg,is_current
+"Coffee, 100%, ground roast, all sizes",lb. (453.6 gm),Beef,2015-01-01,2026-07-01,4.738,9.317,123,4.053,9.723,4.72,9.265,96.29,True
+"Orange juice, frozen concentrate, 12 oz. can",16 oz. (473.2 ml),Fruit,2015-01-01,2026-07-01,2.732,4.817,138,2.257,4.97,2.71,4.822,77.93,True
+Utility (piped) gas,therm,Energy,2015-01-01,2026-07-01,1.036,1.704,138,0.877,1.819,0.945,1.676,77.35,True
+"Lettuce, romaine",lb. (453.6 gm),Vegetables,2015-01-01,2026-07-01,2.047,3.469,115,1.79,4.021,1.986,3.389,70.64,True
+All Uncooked Other Beef (Excluding Veal),lb. (453.6 gm),"Meat, broad category",2015-01-01,2026-07-01,4.734,8.009,137,4.406,8.222,4.661,7.924,70.01,True
+"All soft drinks, 12 pk, 12 oz., cans",12 oz. (354.9 ml),Drinks,2018-04-01,2026-07-01,0.336,0.606,99,0.326,0.613,0.344,0.582,69.19,True
+"Steak, sirloin, USDA Choice, boneless",lb. (453.6 gm),Beef,2015-01-01,2026-07-01,8.08,14.592,138,7.79,14.727,8.57,14.131,64.89,True
+Fuel oil #2,gallon (3.785 liters),Energy,2015-01-01,2026-07-01,2.811,4.799,138,1.905,5.973,2.601,4.241,63.05,True
+"Chuck roast, USDA Choice, boneless",lb. (453.6 gm),Beef,2015-01-01,2026-07-01,5.624,9.631,138,4.792,9.631,5.603,9.133,63.0,True
+All Uncooked Beef Steaks,lb. (453.6 gm),Beef,2015-01-01,2026-07-01,7.53,13.064,138,7.094,13.064,7.752,12.558,62.0,True
+Automotive diesel fuel,gallon/3.785 liters,Energy,2015-01-01,2026-07-01,2.964,5.077,138,2.04,5.78,2.745,4.42,61.02,True
+"Ground beef, 100% beef",lb. (453.6 gm),Beef,2015-01-01,2026-07-01,4.235,6.885,138,3.547,6.899,4.167,6.639,59.32,True
+"Gasoline, unleaded premium",gallon/3.785 liters,Energy,2015-01-01,2026-07-01,2.497,5.027,139,2.248,5.774,2.866,4.514,57.5,True
+"Steak, round, USDA Choice, boneless",lb. (453.6 gm),Beef,2015-01-01,2026-07-01,6.052,10.036,138,5.512,10.095,6.147,9.642,56.86,True
+"Ground chuck, 100% beef",lb. (453.6 gm),Beef,2015-01-01,2026-07-01,4.375,6.85,138,3.549,6.975,4.25,6.655,56.59,True
+"Rice, white, long grain, uncooked",lb. (453.6 gm),Bakery and grains,2015-01-01,2026-07-01,0.692,1.1,137,0.662,1.1,0.685,1.071,56.35,True
+All Uncooked Beef Roasts,lb. (453.6 gm),"Meat, broad category",2015-01-01,2026-07-01,5.838,9.571,138,5.109,9.571,5.815,9.066,55.91,True
+"Beef for stew, boneless",lb. (453.6 gm),Beef,2015-01-01,2026-07-01,5.712,9.025,127,5.042,9.304,5.598,8.725,55.86,True
+"Sugar, white, all sizes",lb. (453.6 gm),Pantry and snacks,2015-01-01,2026-07-01,0.644,1.024,138,0.573,1.054,0.654,1.018,55.66,True
+"Cookies, chocolate chip",lb. (453.6 gm),Bakery and grains,2015-01-01,2026-07-01,3.428,5.008,138,3.212,5.352,3.354,5.187,54.65,True
+"Round roast, USDA Choice, boneless",lb. (453.6 gm),Beef,2015-01-01,2026-07-01,5.62,9.155,138,4.791,9.155,5.597,8.639,54.35,True
+Potato chips,16 oz.,Vegetables,2015-01-01,2026-07-01,4.263,6.559,138,4.263,6.971,4.408,6.735,52.79,True
+"Gasoline, unleaded midgrade",gallon/3.785 liters,Energy,2015-01-01,2026-07-01,2.34,4.583,139,2.029,5.369,2.689,4.077,51.62,True
+"Gasoline, all types",gallon/3.785 liters,Energy,2015-01-01,2026-07-01,2.17,4.242,138,1.833,5.149,2.51,3.75,49.4,True
+All uncooked ground beef,lb. (453.6 gm),Beef,2015-01-01,2026-07-01,4.675,7.116,138,4.029,7.141,4.628,6.865,48.34,True
+Grapefruit,lb. (453.6 gm),Fruit,2015-01-01,2026-07-01,1.037,1.614,96,0.97,1.834,1.091,1.612,47.75,True
+"Lettuce, iceberg",lb. (453.6 gm),Vegetables,2015-01-01,2026-07-01,1.174,1.753,98,0.876,2.012,1.162,1.714,47.5,True
+"Gasoline, unleaded regular",gallon/3.785 liters,Energy,2015-01-01,2026-07-01,2.11,4.094,139,1.767,5.058,2.448,3.602,47.14,True
+All soft drinks,2 liters (67.6 oz),Drinks,2018-04-01,2026-07-01,1.443,2.265,99,1.428,2.398,1.486,2.179,46.64,True
+All Ham (Excluding Canned Ham and Luncheon Slices),lb. (453.6 gm),"Meat, broad category",2015-01-01,2026-07-01,3.211,4.489,132,2.822,4.71,3.081,4.458,44.69,True
+Yogurt,8 oz. (226.8 gm),Dairy and fats,2018-04-01,2026-07-01,1.057,1.553,99,1.043,1.7,1.067,1.539,44.24,True
+"Potatoes, white",lb. (453.6 gm),Vegetables,2015-01-01,2026-07-01,0.668,0.942,135,0.633,1.094,0.65,0.919,41.38,True
+"Malt beverages, all types, all sizes, any origin",16 oz. (473.2 ml),Drinks,2015-01-01,2026-07-01,1.295,1.878,138,1.287,1.882,1.316,1.852,40.73,True
+Electricity,KWH,Energy,2015-01-01,2026-07-01,0.138,0.197,138,0.131,0.198,0.138,0.192,39.13,True
+"Chicken, fresh, whole",lb. (453.6 gm),Poultry,2015-01-01,2026-07-01,1.546,2.005,137,1.362,2.086,1.488,2.043,37.3,True
+"Ground beef, lean and extra lean",lb. (453.6 gm),Beef,2015-01-01,2026-07-01,6.032,8.414,138,5.186,8.651,6.1,8.299,36.05,True
+"Milk, fresh, low-fat, reduced fat, skim",gal. (3.8 lit),Dairy and fats,2018-04-01,2026-07-01,2.658,3.8,99,2.567,3.888,2.624,3.558,35.59,True
+"Ham, boneless, excluding canned",lb. (453.6 gm),Pork and deli,2015-01-01,2026-07-01,4.405,5.492,137,3.724,5.898,4.189,5.489,31.03,True
+"Ice cream, prepackaged, bulk, regular",1/2 gal. (1.9 lit),Dairy and fats,2015-01-01,2026-07-01,5.089,5.836,138,4.466,6.505,4.744,6.215,31.01,True
+All Other Pork (Excluding Canned Ham and Luncheon Slices),lb. (453.6 gm),Pork and deli,2015-01-01,2026-07-01,2.991,3.671,137,2.516,3.825,2.836,3.694,30.25,True
+"Bread, white, pan",lb. (453.6 gm),Bakery and grains,2015-01-01,2026-07-01,1.479,1.82,138,1.261,2.033,1.441,1.835,27.34,True
+"Bacon, sliced",lb. (453.6 gm),Pork and deli,2015-01-01,2026-07-01,5.589,6.584,138,4.94,7.608,5.454,6.889,26.31,True
+"Chicken breast, boneless",lb. (453.6 gm),Poultry,2015-01-01,2026-07-01,3.438,4.153,138,2.896,4.746,3.41,4.17,22.29,True
+"Milk, fresh, whole, fortified",gal. (3.8 lit),Dairy and fats,2015-01-01,2026-07-01,3.758,4.313,138,2.839,4.317,3.419,4.14,21.09,True
+"Strawberries, dry pint",12 oz. (340.2 gm),Fruit,2015-01-01,2026-07-01,2.454,2.404,134,1.664,3.856,2.274,2.635,15.88,True
+"Wine, red and white table, all sizes, any origin",1 liter (33.8 oz),Drinks,2015-01-01,2026-07-01,12.912,13.794,138,11.875,14.247,12.252,14.013,14.37,True
+Bananas,lb. (453.6 gm),Fruit,2015-01-01,2026-07-01,0.583,0.65,138,0.544,0.67,0.583,0.656,12.52,True
+"Beans, dried, any type, all sizes",lb. (453.6 gm),Vegetables,2015-01-01,2026-07-01,1.452,1.689,136,1.298,1.721,1.486,1.666,12.11,True
+"Tomatoes, field grown",lb. (453.6 gm),Vegetables,2015-01-01,2026-07-01,2.089,2.003,136,1.635,2.689,1.841,2.048,11.24,True
+All Pork Chops,lb. (453.6 gm),Pork and deli,2015-01-01,2026-07-01,3.988,4.244,138,3.186,4.452,3.865,4.267,10.4,True
+"Cheddar cheese, natural",lb. (453.6 gm),Dairy and fats,2015-01-01,2026-07-01,5.401,5.741,138,4.748,6.123,5.379,5.916,9.98,True
+"Chicken legs, bone-in",lb. (453.6 gm),Poultry,2015-01-01,2026-07-01,1.584,1.723,138,1.327,2.031,1.594,1.75,9.79,True
+"Eggs, grade A, large",doz.,Eggs,2015-01-01,2026-07-01,2.113,2.189,138,1.203,6.227,2.469,2.704,9.52,True
+American processed cheese,lb. (453.6 gm),Dairy and fats,2015-01-01,2026-07-01,4.944,4.746,137,3.772,5.063,4.456,4.77,7.05,True
+"Flour, white, all purpose",lb. (453.6 gm),Bakery and grains,2015-01-01,2026-07-01,0.545,0.543,137,0.356,0.575,0.517,0.552,6.77,True
+"Chops, boneless",lb. (453.6 gm),Pork and deli,2015-01-01,2026-07-01,4.484,4.573,138,3.664,4.874,4.327,4.587,6.01,True
+"Butter, stick",lb. (453.6 gm),Dairy and fats,2018-04-01,2026-07-01,4.153,3.922,99,3.325,5.004,4.092,4.331,5.84,True
+"Corn, canned, any style, all sizes",lb. (453.6 gm),Vegetables,2015-01-01,2026-07-01,1.022,1.284,37,1.022,1.446,1.246,1.306,4.82,True
+Lemons,lb. (453.6 gm),Fruit,2015-01-01,2026-07-01,1.86,2.127,120,1.664,2.557,1.981,2.037,2.83,True
+Spaghetti and macaroni,lb. (453.6 gm),Bakery and grains,2015-01-01,2026-07-01,1.264,1.381,138,1.067,1.486,1.318,1.32,0.15,True
+"Bologna, all beef or mixed",lb. (453.6 gm),Pork and deli,2015-01-01,2019-09-01,2.957,2.791,57,2.528,3.038,2.821,2.698,,False
+"Bread, whole wheat, pan",lb. (453.6 gm),Bakery and grains,2015-01-01,2026-05-01,1.948,2.814,136,1.896,2.833,1.992,2.705,,False
+Broccoli,lb. (453.6 gm),Vegetables,2015-01-01,2020-03-01,1.729,1.971,63,1.532,2.114,1.791,1.974,,False
+"Chops, center cut, bone-in",lb. (453.6 gm),Pork and deli,2015-01-01,2026-05-01,4.167,4.905,136,3.558,4.905,4.106,4.605,,False
+"Chuck roast, graded and ungraded, excluding USDA Prime and Choice",lb. (453.6 gm),Beef,2015-01-01,2017-12-01,5.335,4.624,36,4.265,5.362,5.202,4.675,,False
+"Frankfurters, all meat or all beef",lb. (453.6 gm),Pork and deli,2015-10-01,2022-04-01,3.515,5.221,79,2.602,5.221,3.373,4.448,,False
+"Grapes, Thompson Seedless",lb. (453.6 gm),Fruit,2015-01-01,2021-09-01,3.209,2.359,77,1.919,3.614,2.591,2.331,,False
+"Margarine, soft, tubs",lb. (453.6 gm),Dairy and fats,2015-01-01,2019-10-01,1.966,1.728,58,1.556,2.006,1.933,1.624,,False
+"Oranges, Navel",lb. (453.6 gm),Fruit,2015-01-01,2026-06-01,1.195,1.54,125,1.148,1.805,1.304,1.58,,False
+"Pears, Anjou",lb. (453.6 gm),Fruit,2016-06-01,2019-07-01,1.65,1.552,31,1.513,1.726,1.632,1.596,,False
+"Peppers, sweet",lb. (453.6 gm),Vegetables,2015-01-01,2020-03-01,2.427,2.437,58,2.043,2.888,2.496,2.392,,False
+"Steak, round, graded and ungraded, excluding USDA Prime and Choice",lb. (453.6 gm),Beef,2015-01-01,2026-04-01,6.161,9.328,67,5.304,9.335,6.087,8.704,,False
+"Sugar, white, 33-80 oz. pkg",lb. (453.6 gm),Pantry and snacks,2015-01-01,2022-10-01,0.626,0.793,70,0.549,0.793,0.646,0.7,,False
+"Turkey, frozen, whole",lb. (453.6 gm),Poultry,2015-01-01,2020-02-01,1.445,1.639,62,1.389,1.692,1.505,1.543,,False
