@@ -8,6 +8,7 @@
 > **A production-ready, single-file Streamlit data analytics application** analyzing US average retail prices for grocery staples and gasoline from **January 2015 to 2026**, built on real BLS (Bureau of Labor Statistics) data.
 
 🔗 **GitHub:** https://github.com/SagniksNewProjects/US-Grocery-Gas-Price-Analytics-2015-2026-
+
 🔗 **Datasets' Source** https://www.kaggle.com/datasets/harshitsama/us-grocery-and-gas-prices-2015-2026
 
 ---
