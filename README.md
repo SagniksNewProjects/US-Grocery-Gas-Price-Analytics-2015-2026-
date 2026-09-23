@@ -155,4 +155,5 @@ MIT — see [LICENSE](LICENSE) for details.
 
 ---
 
-*Built as part of the IBM Data Analytics Project · 2025*
+*Built as part of the IBM SkillsBuild Data Analytics Project · 2026*
+*And as a part of AICTE Academic Internship - 2026*
